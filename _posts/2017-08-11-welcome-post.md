@@ -1,5 +1,5 @@
 ---
-title: "MY POST"
+title: "Wrapping Up Booze News"
 ---
 
 # My first post
