@@ -1,8 +1,6 @@
 ---
 permalink: /about-me/
 ---
-# About Me
-
 I am an attorney and an advocate for neighborhoods in Baltimore City, where I've lived for five years. I own a shabby bungalow on the north side of the city, near Loyola University, where my husband teaches philosophy. I am a neglectful gardener and a timid cyclist.
 
 ## Environmental Justice
