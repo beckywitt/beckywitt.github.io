@@ -8,17 +8,17 @@ header:
   overlay_filter: "0.5"
   overlay_image: assets/images/Hampden_rowhouses_Roland_Ave_MD1.jpg
   cta_label: ""
-  cta_url: "/resume"
+  cta_url: "/about-me"
   caption: ""
 excerpt: ""
 intro:
   - excerpt: ''
 feature_row:
-  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-    title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  - image_path: assets/images/becky-witt-at-liquor-board-hearing-1280x720.jpg
+    alt: "Becky Witt at the Liquor Board"
+    title: "Liquor Board Advocacy"
+    excerpt: "Liquor Board Advocacy"
+  - image_path: assets/images/open-book-library-education-read-159621.jpeg
     alt: "placeholder image 2"
     title: "Placeholder 2"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
@@ -54,10 +54,10 @@ feature_row4:
     btn_class: "btn--inverse"
 ---
 
-<!--{% include feature_row id="intro" type="center" %}
+{% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
-
+<!--
 {% include feature_row id="feature_row2" type="left" %}
 
 {% include feature_row id="feature_row3" type="right" %}
