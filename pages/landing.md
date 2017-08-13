@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Welcome"
 layout: splash
 permalink: /
 date: 2016-03-23T11:48:41-04:00
@@ -7,10 +7,10 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: assets/images/Hampden_rowhouses_Roland_Ave_MD1.jpg
-  cta_label: ""
+  cta_label: "Learn More"
   cta_url: "/about-me"
   caption: ""
-excerpt: ""
+excerpt: "Welcome to Becky Witt's Professional Page. Use this site to stay up to date on all the projects I'm working on."
 intro:
   - excerpt: ''
 feature_row:
