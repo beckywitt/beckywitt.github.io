@@ -10,24 +10,24 @@ header:
   cta_label: "Learn More"
   cta_url: "/about-me"
   caption: ""
-excerpt: "Welcome to Becky Witt's Professional Page. Use this site to stay up to date on all the projects I'm working on."
+excerpt: ""
 intro:
   - excerpt: ''
 feature_row:
   - image_path: assets/images/becky-witt-at-liquor-board-hearing-1280x720.jpg
     alt: "Becky Witt at the Liquor Board"
     title: "Liquor Board Advocacy"
-    excerpt: "Liquor Board Advocacy"
+    excerpt: ""
   - image_path: assets/images/open-book-library-education-read-159621.jpeg
     alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    title: "Publications"
+    excerpt: ""
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: assets/images/testify-hogan-apptees.jpg
+    title: "In The News"
+    excerpt: ""
 feature_row2:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
