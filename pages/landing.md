@@ -17,8 +17,8 @@ feature_row:
   - image_path: assets/images/becky-witt-at-liquor-board-hearing-1280x720.jpg
     alt: "Becky Witt at the Liquor Board"
     title: "Resume"
-    excerpt: "pages/resume"
-    url: ""
+    excerpt: ""
+    url: "pages/resume"
   - image_path: assets/images/open-book-library-education-read-159621.jpeg
     alt: "Publications"
     title: "Publications"

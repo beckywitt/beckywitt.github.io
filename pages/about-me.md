@@ -3,7 +3,7 @@ permalink: /about-me/
 ---
 I am an attorney and an advocate for neighborhoods in Baltimore City. I own a fixer upper on the north side of the city, near Loyola University, where my spouse teaches philosophy. I am a neglectful gardener and a timid cyclist.
 
-## Environmental Justice
+# Environmental Justice
 
 I grew up in Rockford, Illinois, a small post-industrial city, in the same working class neighborhood where my grandparents and father grew up. The city's southeast side is filled with struggling and shuttered tool and die factories.
 
@@ -13,7 +13,7 @@ When I first heard the concept of environmental injustice as a sociology undergr
 
 Even as someone who had grown up within one mile of the Superfund site, I had had no clue about my hometown's fame (infamy?) among toxicologists.
 
-## Legal Career
+# Legal Career
 
 After I graduated from Boston University School of Law, having focused my elective coursework mostly on environmental law and policy, I was a **Legal Fellow at the California Department of Toxic Substances Control (DTSC)**. As a fellow, I drafted stern letters to retail stores that sold cheap bulk children's jewelry shipped from China and filled with lead. I combed through the deeds of a property originally polluted in the late 1800s by a corporate predecessor of Pacific Gas and Electric. I enjoyed doing work that protected the citizens of California from the proven harmful effects of toxic substances.
 
