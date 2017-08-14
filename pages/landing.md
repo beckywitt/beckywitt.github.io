@@ -16,18 +16,20 @@ intro:
 feature_row:
   - image_path: assets/images/becky-witt-at-liquor-board-hearing-1280x720.jpg
     alt: "Becky Witt at the Liquor Board"
-    title: "Liquor Board Advocacy"
-    excerpt: ""
+    title: "Resume"
+    excerpt: "pages/resume"
+    url: ""
   - image_path: assets/images/open-book-library-education-read-159621.jpeg
-    alt: "placeholder image 2"
+    alt: "Publications"
     title: "Publications"
     excerpt: ""
-    url: "#test-link"
-    btn_label: "Read More"
+    url: "pages/publications"
+    btn_label: ""
     btn_class: "btn--inverse"
   - image_path: assets/images/testify-hogan-apptees.jpg
     title: "In The News"
     excerpt: ""
+    url: "pages/in-the-news"
 feature_row2:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
